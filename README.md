@@ -1,2 +1,2 @@
 # INE-DataScience
-A Personal Note Repo
+This a personal note repo of the Data Science learning path.
